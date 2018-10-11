@@ -10,6 +10,7 @@ public class MyDate {
     private int day;
     private int month;
     private int year;
+    private String helpDate;
     private String monthString;
 
     public MyDate(int year, int month, int day) {
@@ -31,13 +32,17 @@ public class MyDate {
     }
 
     public MyDate(String date) {
-        String[] dateComponents = date.split("\\.");
-        int day = Integer.parseInt(dateComponents[0]);
-        int month = Integer.parseInt(dateComponents[1]);
-        int year = Integer.parseInt(dateComponents[2]);
+        if (date.equals("quit")) {
+            this.helpDate = date;
+        } else {
+            this.helpDate = date;
+            String[] dateComponents = date.split("\\.");
+            int day = Integer.parseInt(dateComponents[0]);
+            int month = Integer.parseInt(dateComponents[1]);
+            int year = Integer.parseInt(dateComponents[2]);
 
-        initializeFields(year, month, day);
-
+            initializeFields(year, month, day);
+        }
     }
 
     //region Getter und Setter
@@ -51,6 +56,10 @@ public class MyDate {
 
     public int getYear() {
         return year;
+    }
+
+    public String getDate() {
+        return this.helpDate;
     }
     //endregion
 
