@@ -1,16 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/MyDate.java" line="33" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9e923548-4a3f-4fb9-947a-432c11f22d93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/mydate.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/mydate/MyDate.java" afterPath="$PROJECT_DIR$/src/main/java/at/htl/mydate/MyDate.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/mydate/Weekday.java" afterPath="$PROJECT_DIR$/src/main/java/at/htl/mydate/Weekday.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="MyDateTest.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/mydate/MyDateTest.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="627">
+                    <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+                    <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+                    <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+                    <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+                    <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+                    <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+                    <folding>
+                      <element signature="imports" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1216555326">
@@ -78,11 +116,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyDate.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/MyDate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+            <state relative-caret-position="747">
+              <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="n#!!doc;n#getDay#0;n#MyDate#0" expanded="false" />
+                <element signature="e#1271#1272#0" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1382#1383#0" expanded="true" />
+                <element signature="e#1409#1410#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Weekday.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/Weekday.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4964">
+              <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,13 +195,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/at/htl/mydate/Weekday.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/htl/mydate/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/at/htl/mydate/MyDateTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/at/htl/mydate/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/htl/mydate/Weekday.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/htl/mydate/MyDate.java" />
       </list>
     </option>
@@ -119,7 +219,33 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mydate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mydate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mydate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mydate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="941" />
     <option name="y" value="68" />
     <option name="width" value="1173" />
@@ -127,42 +253,75 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="1819_2ahitm_sew_assignment03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1819_2ahitm_sew_assignment03" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1819_2ahitm_sew_assignment03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1819_2ahitm_sew_assignment03" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1819_2ahitm_sew_assignment03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1819_2ahitm_sew_assignment03" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1819_2ahitm_sew_assignment03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1819_2ahitm_sew_assignment03" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1819_2ahitm_sew_assignment03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1819_2ahitm_sew_assignment03" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mydate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment03-datumsmanager-QuirinEcker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment03-datumsmanager-QuirinEcker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment03-datumsmanager-QuirinEcker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03-datumsmanager-QuirinEcker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mydate" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -170,7 +329,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,10 +337,10 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.validation" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -206,56 +365,199 @@
   <component name="RunManager" selected="JUnit.MyDateTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
+      <module />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="at.htl.mydate.Main" />
-      <module name="MyDate" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="at.htl.mydate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="at.htl.mydate.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mydate" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MyDateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyDate" />
-      <extension name="coverage">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="at.htl.mydate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <module name="mydate" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="at.htl.mydate" />
       <option name="MAIN_CLASS_NAME" value="at.htl.mydate.MyDateTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MyDateTest.constructWithStringFaildYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="at.htl.mydate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mydate" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="at.htl.mydate" />
+      <option name="MAIN_CLASS_NAME" value="at.htl.mydate.MyDateTest" />
+      <option name="METHOD_NAME" value="constructWithStringFaildYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MyDateTest.constructWithStringOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="at.htl.mydate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mydate" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="at.htl.mydate" />
+      <option name="MAIN_CLASS_NAME" value="at.htl.mydate.MyDateTest" />
+      <option name="METHOD_NAME" value="constructWithStringOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MyDateTest.smokeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="at.htl.mydate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mydate" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="at.htl.mydate" />
+      <option name="MAIN_CLASS_NAME" value="at.htl.mydate.MyDateTest" />
+      <option name="METHOD_NAME" value="smokeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -264,20 +566,29 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JUnit.MyDateTest" />
-      <item itemvalue="Application.Main" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MyDateTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MyDateTest.smokeTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MyDateTest.constructWithStringOk" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MyDateTest.constructWithStringFaildYear" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.MyDateTest" />
-        <item itemvalue="Application.Main" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MyDateTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MyDateTest.constructWithStringFaildYear" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MyDateTest.constructWithStringOk" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MyDateTest.smokeTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -293,118 +604,248 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyDateTest - 2018.09.29 at 15h 45m 36s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 17m 41s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 15h 46m 35s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 17m 59s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 15h 51m 21s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 18m 08s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 16h 00m 28s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 21m 14s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 16h 00m 54s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 21m 28s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 16h 01m 02s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 23m 16s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 16h 02m 31s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 28m 23s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 16h 05m 23s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 33m 54s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 16h 09m 20s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 39m 24s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyDateTest - 2018.09.29 at 16h 10m 02s.xml">
+    <history-entry file="MyDateTest - 2018.10.11 at 19h 56m 35s.xml">
       <configuration name="MyDateTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="941" y="68" width="1173" height="1016" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2281167" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3122222" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39929742" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SonarQube" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290398" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847276" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15585938" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31158864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10273437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39929742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/Weekday.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/MyDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="425">
+          <caret line="25" column="58" lean-forward="false" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="n#!!doc;n#getDay#0;n#MyDate#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/mydate/MyDateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        <state relative-caret-position="425">
+          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4964">
+          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="170">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/MyDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="n#!!doc;n#getDay#0;n#MyDate#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4964">
+          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/Weekday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/mydate/MyDateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/mydate/MyDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="n#!!doc;n#getDay#0;n#MyDate#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -428,6 +869,18 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mydate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -442,6 +895,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
