@@ -1,5 +1,7 @@
 package at.htl.mydate;
 
+
+//2018-11-04-HM: Sehr elegant gelöst => super!
 public enum Weekday {
     MONDAY("Montag"),
     TUESDAY("Dienstag"),

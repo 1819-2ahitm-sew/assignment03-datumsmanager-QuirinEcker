@@ -25,6 +25,7 @@ public class MyDate {
         }
     }
 
+    // 2018-11-04-HM: genauere Überprüfung wäre möglich (z.B. ist 31.2.2018 ungültig)
     private boolean isvalid(int year, int month, int day) {
         return 1 <= year && year <= 3000 &&
                 1 <= month && month <= 12 &&
@@ -43,6 +44,21 @@ public class MyDate {
 
             initializeFields(year, month, day);
         }
+
+        // 2018-11-04-HM: kürzere Lösung möglich, siehe unten
+        /*
+        this.helpDate = date;
+
+        if (!date.equals("quit")) {
+            String[] dateComponents = date.split("\\.");
+            int day = Integer.parseInt(dateComponents[0]);
+            int month = Integer.parseInt(dateComponents[1]);
+            int year = Integer.parseInt(dateComponents[2]);
+
+            initializeFields(year, month, day);
+        }
+        */
+
     }
 
     //region Getter und Setter
@@ -69,12 +85,13 @@ public class MyDate {
             int weekday = ((day + (int)(2.6 * ((month + 9) % 12 + 1) - 0.2)
                     + calculatedYear % 100 + (int)(calculatedYear % 100 / 4) + (int)(calculatedYear / 400)
                     - 2 * (int)(calculatedYear / 100) - 1) % 7 + 7) % 7 + 1;
-            return Weekday.values()[weekday-1];
+            return Weekday.values()[weekday-1]; // 2018-11-04-HM: sehr schöne Lösung
         } else {
             return null;
         }
     }
 
+    // 2018-11-04-HM: keine eigene Methode notwendig => Code einfach in getWeekday einfügen
     private int adjustYearToFormula() {
         int calculatedYear = year;
         if (month < 3) {
@@ -108,6 +125,7 @@ public class MyDate {
         return isYounger;
     }
 
+    // 2018-11-04-HM: Methodenname "checkYear" lässt nicht unbedingt vermuten, dass auch das Monat und der Tag überprüft werden
     private boolean checkYear(MyDate other, boolean isYounger) {
         if (this.getYear() > other.getYear()) {
             isYounger = true;
@@ -141,6 +159,7 @@ public class MyDate {
     }
 
     public String getMonthString() {
+        // 2018-11-04-HM: switch verwenden
         if (this.getMonth() == 1) return "Jänner";
         else if (this.getMonth() ==  2) return "February";
         else if (this.getMonth() ==  3) return "März";

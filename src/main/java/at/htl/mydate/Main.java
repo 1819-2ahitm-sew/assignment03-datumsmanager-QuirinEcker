@@ -6,6 +6,7 @@ public class Main {
 
     private static Scanner scanner = new Scanner(System.in);
 
+    // 2018-11-04-HM: Main funktioniert und alle Unittests erfolgreich => super!
     public static void main(String[] args) {
         int counter = 1;
         MyDate date;
@@ -14,7 +15,7 @@ public class Main {
         System.out.println("Date-Manager");
         System.out.println("============");
 
-        System.out.print(counter + ". Datum: ");
+        System.out.print(counter + ". Datum: "); // 2018-11-04-HM: counter wird nie erhöht
         date = new MyDate(scanner.next());
 
         while (!(date.getDate().equals("quit"))) {
